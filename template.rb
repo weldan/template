@@ -54,7 +54,6 @@ doc/
 .idea
 .secret
 .DS_Store
-bin/spring 
 Gemfile.lock
 EOF"
 
